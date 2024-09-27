@@ -1,0 +1,666 @@
+match_id;home_team;visiting_team;home_team_set;visiting_team_set;match_winner
+003081a1a4447d5eaec5c8e0ab979276;University of Louisville;Duke University;3;0;University of Louisville
+01d83ad43250a917908fa72075e13295;Iowa State University;West Virginia University;3;2;Iowa State University
+023d1a2b1b8ad435b17afbaed599f20d;Brigham Young University;Loyola Marymount University;3;0;Brigham Young University
+02b4c1dcab7de7bb2347f09eed1210a8;University of Portland;University of San Diego;0;3;University of San Diego
+036fbf21528339703cc043b5064f60a2;Purdue University;Pennsylvania State University;1;3;Pennsylvania State University
+04a7cc0bb2bc5da17fc4fedb68401b60;Stanford University;University of Utah;3;1;Stanford University
+04ae530dd0bca4833e18e4fafc2af4f0;University of Tennessee;Louisiana State University;3;1;University of Tennessee
+05660252111f567b5a5ba0586ad0af8a;University of Alabama;Mississippi State University;0;3;Mississippi State University
+05898e8e9adc0b0ba3b279ca2b6e8f48;University of Pittsburgh;Boston College;3;0;University of Pittsburgh
+058de8d2bb909637ae8d6b8d7198286e;Rutgers University;Northwestern University;1;3;Northwestern University
+05b2507f969be65a3244e07313187967;Gonzaga University;Saint Mary's College;1;3;Saint Mary's College
+06028301356cdf3a21df3782a3843f3f;Texas Christian University;University of Kansas;3;2;Texas Christian University
+0632e7d248019c21b6a03d4873bda495;Rutgers University;University of Maryland;0;3;University of Maryland
+0636af6dc4adcf42e46ee4b75f8901b3;University of Wisconsin-Madison;University of Michigan;3;1;University of Wisconsin-Madison
+064ed9c01a74d4f52e04445f0b36fdd6;Baylor University;University of Texas at Austin;1;3;University of Texas at Austin
+0691afca729b5add217b3ce74998fd23;Stanford University;Arizona State University;3;1;Stanford University
+06cc12d99e0c3d63f25ddf14fe6cc9bd;University of Pittsburgh;North Carolina State University;3;1;University of Pittsburgh
+0723964ea53bd246254053069c782ab3;University of San Diego;Pepperdine University;3;1;University of San Diego
+072be56d6b1eaadc30ca02525b70f14e;Duke University;Wake Forest University;3;2;Duke University
+0742b8a9a57af244fcc5babbd765f415;University of Kansas;Texas Christian University;3;0;University of Kansas
+078427d5ae73f1a3990dac24a943e780;University of Florida;Louisiana State University;3;2;University of Florida
+079204ccd9c7bd7e747dc4db19777cf2;Rutgers University;University of Wisconsin-Madison;0;3;University of Wisconsin-Madison
+07bc3ab937a004bfbd6747c394c5455d;University of Miami;University of Louisville;0;3;University of Louisville
+07c85016b27d90e0bac99e14f1634d81;University of Florida;University of Alabama;3;0;University of Florida
+083673917740b303a99cdb2dc1e14a29;Florida State University;University of Louisville;0;3;University of Louisville
+084c6962bbe62324b091bf13861c3673;University of Florida;Louisiana State University;3;1;University of Florida
+084ef5d8d9fe026292c2e6c47ca52c3a;Florida State University;Clemson University;3;1;Florida State University
+087c5fb047db3da3f41aa6482353de2f;Purdue University;Indiana University, Bloomington;3;1;Purdue University
+0a40cff4815c5978866806a9b0ef03ff;Iowa State University;University of Texas at Austin;3;2;Iowa State University
+0a68efca91f4a49ad84fdf7dd3b84f03;University of North Carolina;Florida State University;2;3;Florida State University
+0afd28a2f635f6078daa8bc2d07abd71;University of Georgia;University of Kentucky;0;3;University of Kentucky
+0b54f10edb1e824e98d736f0282fada1;Northwestern University;University of Illinois Urbana-Champaign;3;0;Northwestern University
+0b559834e6dcf2da664e72e108f2862e;University of Louisville;University of North Carolina;3;1;University of Louisville
+0b5eb09d56567fead38c429d2739b594;Washington State University;University of California, Berkeley;3;0;Washington State University
+0bb888330f8aaf13e3ec23007e9762af;University of Maryland;Purdue University;1;3;Purdue University
+0c80f8e6fd21f203955ae049bb5659ec;University of the Pacific;University of San Francisco;2;3;University of San Francisco
+0cad4837e21f1589401afd7f082d753f;Texas A&M University;Mississippi State University;0;3;Mississippi State University
+0cfceba685eb8a68626ffd73ccd06317;University of Tennessee;University of Florida;1;3;University of Florida
+0d04dbf9a21f4993af85b4143eb2b321;University of Minnesota;University of Wisconsin-Madison;3;0;University of Minnesota
+0d478b8f923422059467203d51f28719;University of Utah;Stanford University;0;3;Stanford University
+0d4efc7134a71e2c5626892ba08c4816;University of Notre Dame;University of Louisville;0;3;University of Louisville
+0dc8c33f824a66c7b1767f63578f9822;University of Mississippi;University of Tennessee;2;3;University of Tennessee
+0ddb77fcdf19c7b7f6b9f6e70d8abca5;University of Missouri;University of Kentucky;1;3;University of Kentucky
+0e07643c2865f33e6023f4d8f871f76c;University of Virginia;University of Pittsburgh;1;3;University of Pittsburgh
+0e0cd40b7c51f99cb1f6fa00e8021289;University of Oklahoma;Texas Christian University;0;3;Texas Christian University
+0e42493da08e48c9bf0baf10426ac3fd;North Carolina State University;Syracuse University;3;0;North Carolina State University
+0eab582325aafe1b2c2b594188862840;Texas Christian University;Texas Tech University;3;1;Texas Christian University
+0ee4f9da0742ed13479d46444858c4e4;Florida State University;Duke University;3;0;Florida State University
+0f684dcb1a326112c73ef4226631cd30;University of Pittsburgh;University of North Carolina;3;1;University of Pittsburgh
+0fa06f4d7ce15e8527d4d5a25542ffb7;University of Notre Dame;Georgia Institute Of Technology;0;3;Georgia Institute Of Technology
+0fa0fc169a08de41ee02ae542e8a3d15;Syracuse University;North Carolina State University;1;3;North Carolina State University
+0fc5aeae7176b89089e6e23cde12406a;Baylor University;Texas Tech University;3;1;Baylor University
+104e53d413ca294cbbd472494c76fc96;University of Utah;University of Colorado, Boulder;0;3;University of Colorado, Boulder
+10531376883cfd9b00505e231cb02cef;University of Alabama;University of Missouri;3;0;University of Alabama
+10df8bf201f4e0904ad0d1165fe8f024;University of Oregon;University of Washington;3;0;University of Oregon
+110aa58727ced2ccb936ae91bf062f32;University of Mississippi;University of Missouri;3;2;University of Mississippi
+1120a85a1f6d684f0aaa5d1a78d2c62d;University of Georgia;Texas A&M University;3;2;University of Georgia
+11ee404d931aaf04b9052f1b6ad1054c;University of Mississippi;Texas A&M University;2;3;Texas A&M University
+11f739bf55ee540aa2a76198a8435213;Syracuse University;University of Virginia;3;1;Syracuse University
+1211bb0a6a7fe15633bd21fff077611f;Loyola Marymount University;Brigham Young University;1;3;Brigham Young University
+12f350725e7cfc336bacc3517e317394;University of Wisconsin-Madison;University of Minnesota;3;1;University of Wisconsin-Madison
+1324740ef7aeeed0d2b84b39a1142cca;Rutgers University;Michigan State University;3;2;Rutgers University
+1331a63f27ed927585680fa8061f757e;University of San Diego;Loyola Marymount University;3;2;University of San Diego
+13321e790a154a021f94bfa9f7ca6ee5;University of California, Los Angeles;University of Utah;1;3;University of Utah
+13a38a68389930780fdd67b2536787c2;Loyola Marymount University;University of San Diego;2;3;University of San Diego
+1498588843b95a867e2829f725b226bf;Wake Forest University;Duke University;0;3;Duke University
+1562c6ce48b8eb775717e7f84f582e49;Louisiana State University;Mississippi State University;2;3;Mississippi State University
+15eedb137b3fb43a337bc2ea28c86ee5;University of North Carolina;Duke University;3;1;University of North Carolina
+1690e9a5592cf083ffc277f6ffa3110e;University of Minnesota;Indiana University, Bloomington;3;0;University of Minnesota
+174e95d9bde8851c78a380629fdf3bba;University of San Francisco;Saint Mary's College;3;1;University of San Francisco
+176c7bb5f91b2a6a93b65efd258cdcb1;University of North Carolina;Syracuse University;2;3;Syracuse University
+18aa8afffeeb88e7500c61ddc9482143;Louisiana State University;University of Arkansas;3;2;Louisiana State University
+18e363213fe787e39c12ff999a5b17a3;University of Wisconsin-Madison;University of Illinois Urbana-Champaign;3;2;University of Wisconsin-Madison
+190bc664d630d7a08aac9d508938d7a8;University of Kentucky;Auburn University;3;0;University of Kentucky
+1976a9b3ef55f69b36371e3dd57a2335;University of Michigan;Rutgers University;3;0;University of Michigan
+19804dbc795119e0424fb3afa500a4cd;University of Florida;University of Arkansas;3;0;University of Florida
+1a18b1c7d1b3298f7f402703f4465c2e;Auburn University;University of Georgia;3;2;Auburn University
+1aa35dff6d7c3882f9b037095b984609;University of Alabama;University of Tennessee;0;3;University of Tennessee
+1b3b2997dda25290e58ecd3b5b7c7eb7;Ohio State University;University of Nebraska-Lincoln;3;1;Ohio State University
+1b654baf61b8480a077f3c9c81ac8b92;Oregon State University;University of Utah;0;3;University of Utah
+1c2e7a4f8f79a6ce1fae3c0656645cec;Brigham Young University;University of Portland;3;0;Brigham Young University
+1ccfacb1eba9d9d8679916beef62da24;University of Arkansas;University of Kentucky;1;3;University of Kentucky
+1cd0fc03f4dc2a8bb8295486d0c41497;University of Minnesota;Northwestern University;2;3;Northwestern University
+1d18b9460f4a9c5d353c4f1900e5113a;Auburn University;University of Arkansas;0;3;University of Arkansas
+1d201f021d7485862ff31467c3f1df0e;Iowa State University;Texas Christian University;3;1;Iowa State University
+1e13340a7a5486185160cbf676051019;Gonzaga University;University of Portland;1;3;University of Portland
+1e9a3dcc00534069123b00e73fe68c15;University of Southern California;University of Utah;3;1;University of Southern California
+1f1b2e3bb273db0db4df4245402f53a5;Washington State University;University of Oregon;3;2;Washington State University
+1f230fc9ce4bb65f7fda26c3727cbf89;Northwestern University;University of Iowa;3;0;Northwestern University
+1f5ae9ad8a2c97568f5839adb49e4a02;University of Arizona;University of Colorado, Boulder;1;3;University of Colorado, Boulder
+1f5e682ac3b4e5ddb0ce74f0e19c7c1f;University of Oregon;Oregon State University;3;0;University of Oregon
+1f6048aa4cfa8c9ee35f7cc8d1fa4dee;Indiana University, Bloomington;Ohio State University;1;3;Ohio State University
+1f90dc66c50a97f62218230a28c01eb2;University of San Diego;University of San Francisco;3;0;University of San Diego
+1fe27af3656c334e28038975246873ac;University of San Francisco;University of San Diego;0;3;University of San Diego
+2049b6d9ea2ae2c191e483cd7a971e2b;Oregon State University;University of Arizona;0;3;University of Arizona
+2066c972b8387ad71e349be02bb7f625;University of Virginia;Virginia Tech;3;0;University of Virginia
+209bfc01b3c360fe93757bab86ae2c5e;University of Tennessee;University of South Carolina;3;2;University of Tennessee
+216b7c514af9230b5f112cad3768c636;University of Southern California;University of California, Los Angeles;3;1;University of Southern California
+217601c04a1160cdf97f54fc74818180;Saint Mary's College;Santa Clara University;1;3;Santa Clara University
+21f2d1ecbf2c3737ee8c2c260e130e04;Kansas State University;Texas Tech University;3;2;Kansas State University
+21fd33b32f3e9344af78ea542152dbab;Kansas State University;University of Texas at Austin;1;3;University of Texas at Austin
+224f3bd8cc15e8883997c9fd23b9d668;North Carolina State University;Florida State University;3;0;North Carolina State University
+228effd448173b106f34ac7e0a99aa0c;Michigan State University;University of Illinois Urbana-Champaign;0;3;University of Illinois Urbana-Champaign
+2302a2cff0d715532f74fcdaf0a5dd49;Georgia Institute Of Technology;University of Louisville;2;3;University of Louisville
+2307b74cdf9c534768ddb01d641557e7;Wake Forest University;Syracuse University;2;3;Syracuse University
+24328bd033c053ddf8655e82fedc21bd;University of California, Los Angeles;Stanford University;0;3;Stanford University
+2494fd0a6125abd8895c796488fb0c15;Santa Clara University;Gonzaga University;3;0;Santa Clara University
+24d07ce0023bfd93ad2f2c38ee36dcd3;University of Iowa;University of Michigan;3;2;University of Iowa
+24d9a33172d0363510e53cbbb4c57abf;North Carolina State University;University of North Carolina;0;3;University of North Carolina
+251fb0e1efbcc510aa4b93d22323a4ec;Purdue University;University of Nebraska-Lincoln;0;3;University of Nebraska-Lincoln
+252e7401125619cbb04544c2311692c3;Mississippi State University;University of Mississippi;1;3;University of Mississippi
+259ec7405a72d4aa63e888171c99bce5;Texas Tech University;University of Texas at Austin;0;3;University of Texas at Austin
+25a668d358dfd4e9d1ffb1563c490526;University of Nebraska-Lincoln;Ohio State University;3;2;University of Nebraska-Lincoln
+2605cbb6f70c133329d6dafde9c20141;University of Kentucky;Auburn University;3;0;University of Kentucky
+264560ed9a8e2ae8f81f7561993afea2;University of Oklahoma;Texas Tech University;3;2;University of Oklahoma
+2684732ccdc3f22da1523852368f7ec1;University of Oklahoma;Kansas State University;2;3;Kansas State University
+27d346a9c995f17de4d2940892311898;University of South Carolina;Auburn University;3;2;University of South Carolina
+27da52fd1a28981cffb3460802ec4d05;University of Minnesota;Ohio State University;0;3;Ohio State University
+27eed927fcd5c72662ca93fc7b7f928c;University of Pittsburgh;Florida State University;3;0;University of Pittsburgh
+284a97df1ed0ad17e1befee7ba12c3c1;North Carolina State University;Boston College;2;3;Boston College
+28cb70a1c1bd163e5db9a05d5ba88045;Texas Christian University;West Virginia University;3;2;Texas Christian University
+28e588a2220e9ad139f3ff09faeb38b0;Texas Tech University;West Virginia University;3;0;Texas Tech University
+291ed49b16e076cf69b611a34fc98c95;University of Washington;University of California, Berkeley;3;0;University of Washington
+294504060daa022c79dfb7cabaf846cb;Pepperdine University;University of Portland;3;0;Pepperdine University
+294a11a266253bb7343b2bf3f240cdb6;University of Virginia;University of Louisville;0;3;University of Louisville
+29553bbbe5da10edf565eeedc8156e62;University of the Pacific;Saint Mary's College;3;0;University of the Pacific
+29e8bcc516bf010b0e3080f722e7cbb2;University of Arkansas;University of Tennessee;3;0;University of Arkansas
+29f99888561940564f5e88826590cdb0;Stanford University;Washington State University;3;1;Stanford University
+2a21a8263606810542470d8ddf59a0cf;Michigan State University;Ohio State University;0;3;Ohio State University
+2a432403fbfadfd4ec03d979dee42c21;Santa Clara University;Pepperdine University;1;3;Pepperdine University
+2b101e446b9900f6f826bb0b6c42bdbb;Auburn University;University of Georgia;3;1;Auburn University
+2bccad0f8f45dab7aa2af27d29b2f6fe;Michigan State University;Purdue University;1;3;Purdue University
+2c19952f023dbbc6f2580463f37c7770;Texas A&M University;University of Kentucky;3;0;Texas A&M University
+2e7c356616d6f33251ae374dac3eb7e3;North Carolina State University;University of Notre Dame;3;0;North Carolina State University
+2ee2d5a5f0ca2607fa4062400ac232da;University of Nebraska-Lincoln;Michigan State University;3;0;University of Nebraska-Lincoln
+2f184e647a854b70018f346b7f970bd5;University of Oklahoma;University of Texas at Austin;0;3;University of Texas at Austin
+2f44411ae8ea2d0e5a94e9c2ab386c04;University of Georgia;University of Alabama;3;2;University of Georgia
+302ce64728692acc2dd446de0d23b56e;Stanford University;University of Colorado, Boulder;3;0;Stanford University
+30691c4a6f4c27c6aa7a81c276c7b5bc;University of San Diego;Santa Clara University;3;0;University of San Diego
+312cce17ff6d293fec993a71f5b0f7fd;University of Virginia;University of North Carolina;2;3;University of North Carolina
+31348db558ed59d5be196d444c83008c;North Carolina State University;Georgia Institute Of Technology;1;3;Georgia Institute Of Technology
+31ae7d2f0d7d01b03f8cd4d4ab67fbdd;University of Nebraska-Lincoln;University of Maryland;3;0;University of Nebraska-Lincoln
+31ff0a2458f6e9e9a233ef5e25b1fc1d;University of Tennessee;University of Missouri;3;0;University of Tennessee
+32bf968162289c2c7723d06ecec992ec;Washington State University;University of Arizona;3;2;Washington State University
+3488d193b51f1677b13077ce9bf47845;Pepperdine University;University of San Francisco;2;3;University of San Francisco
+34bd4411792fdaadf94c449a4b742d12;Northwestern University;Purdue University;3;2;Northwestern University
+351f2993c4bfc57dd334e7a4a85981d9;University of Missouri;University of Georgia;0;3;University of Georgia
+353daa7200760440888720c250ad14eb;Michigan State University;Rutgers University;3;1;Michigan State University
+358def1728dee4b8dde8ea3173bf923d;University of California, Los Angeles;University of Arizona;3;1;University of California, Los Angeles
+35b9e6815d9b6503ef99a1b927af08cd;University of the Pacific;Pepperdine University;0;3;Pepperdine University
+35cb860e1175f76ae8ee36d894911d43;Mississippi State University;University of Missouri;3;0;Mississippi State University
+35d65b10558622d9986f2ab95fe34fad;Washington State University;University of Washington;3;0;Washington State University
+35f7d96b9e06dc9cb1d518fd68a43c8b;University of Michigan;Northwestern University;3;1;University of Michigan
+3768767b5ef6db415a766a8482f2d178;Duke University;University of Virginia;3;1;Duke University
+3773b16f20d10f3ed71f46ba9570f3c8;University of Nebraska-Lincoln;Indiana University, Bloomington;3;0;University of Nebraska-Lincoln
+37becd156cf564c30b86159c4f60d397;Michigan State University;Northwestern University;3;0;Michigan State University
+37c2baa34e1e2de04ae283289a33ac11;University of California, Los Angeles;University of Washington;1;3;University of Washington
+383dbfaab5306e02a7f5fff3247dd2f5;Saint Mary's College;Brigham Young University;0;3;Brigham Young University
+385fc6c026b2bce0c2e19db9733f844d;University of Louisville;University of Pittsburgh;3;0;University of Louisville
+3871b3cf2044223e593526894fdd6238;University of South Carolina;University of Missouri;3;2;University of South Carolina
+3931631de43d4663103b35111a3df38c;University of Georgia;University of Mississippi;3;2;University of Georgia
+3a48345074d56263783d8ab8afca61ed;University of Kansas;West Virginia University;3;0;University of Kansas
+3a5277b4b0ad5e8fae54a5b77d910b9d;Loyola Marymount University;Santa Clara University;3;0;Loyola Marymount University
+3bfe76fe4870ec4f11a5be82bae12f1b;Clemson University;Boston College;3;1;Clemson University
+3c13f92dc5f7ad40919356b2b9d08488;Virginia Tech;University of Virginia;2;3;University of Virginia
+3d02d06183d61c1e2f4102c2b02e2281;University of Pittsburgh;Syracuse University;3;0;University of Pittsburgh
+3e0d37e46d16cfc33e834ea36d45040e;Gonzaga University;University of the Pacific;1;3;University of the Pacific
+3e272728859fcf5a1c014e9bc861cd03;University of Missouri;Auburn University;2;3;Auburn University
+3f84696e362b92c5d621dfaca9014eba;Gonzaga University;Loyola Marymount University;0;3;Loyola Marymount University
+3fb5f72193548afc4c474f8c3ca24326;University of Kentucky;University of South Carolina;3;0;University of Kentucky
+3fd14b6d6a76bb9c8685cf74d782d8a0;University of Wisconsin-Madison;Michigan State University;3;0;University of Wisconsin-Madison
+406b1686e56c4ce8cbcff6c5532e5cf1;Louisiana State University;University of Georgia;0;3;University of Georgia
+409731fbd06b57fb3b0566b28d18b093;Stanford University;University of Washington;3;1;Stanford University
+40ab994bc1a734c851748867c8f44977;University of Illinois Urbana-Champaign;Northwestern University;3;0;University of Illinois Urbana-Champaign
+40c722e72a315d1e04ff3fe4b62fe0a0;Pennsylvania State University;University of Maryland;3;1;Pennsylvania State University
+40fef6ebec70edc0da2d6ee4e6aea3ed;Indiana University, Bloomington;Rutgers University;3;1;Indiana University, Bloomington
+4175357af6a392a45ab05b5f78360d20;University of Wisconsin-Madison;Pennsylvania State University;3;0;University of Wisconsin-Madison
+4214cb88b66f56b189f1a4507b471660;University of Louisville;Virginia Tech;3;1;University of Louisville
+4263e62dde298583784fb857987d3345;West Virginia University;Baylor University;0;3;Baylor University
+42ec9f55e24b6ab7a426a0c8be13105d;University of Miami;Wake Forest University;3;0;University of Miami
+42f39609a8a61819914d1ed509794145;University of Washington;Oregon State University;3;0;University of Washington
+43946f419c086858f1f91dd47b42320d;University of North Carolina;Georgia Institute Of Technology;1;3;Georgia Institute Of Technology
+43e31888f4be6c4ace4095265e647b9a;University of Kentucky;University of South Carolina;3;0;University of Kentucky
+4436b1dfc63f4ae8c5ddce66d4ce2efd;Stanford University;University of California, Berkeley;3;0;Stanford University
+457281b5f505d9f88035ccde940c5638;University of Minnesota;Purdue University;3;1;University of Minnesota
+45d6f9329af36c0e5fce3fa753678fd0;Louisiana State University;University of Mississippi;2;3;University of Mississippi
+465c5972120f69d8ab35b9bb3699eb32;West Virginia University;Kansas State University;0;3;Kansas State University
+46bda7706b139008a2adb2d37d2e2bcf;University of Colorado, Boulder;University of Washington;1;3;University of Washington
+4752e32b5a6a68f4dd90fa7cb40fbb32;University of San Francisco;Santa Clara University;0;3;Santa Clara University
+4766ae166cadc2bab4a531d02127169d;University of Texas at Austin;Kansas State University;3;0;University of Texas at Austin
+4881542dc81c70124bb1aa04afbaf95d;University of Washington;Washington State University;3;0;University of Washington
+4897a320c45b361a2f049709a84c78a0;Pennsylvania State University;Indiana University, Bloomington;3;0;Pennsylvania State University
+4917512db7868e1e98f81cdfc80f83e2;Arizona State University;University of Arizona;2;3;University of Arizona
+49281efb0dbf8d6969f00051785d42ba;Virginia Tech;University of Pittsburgh;0;3;University of Pittsburgh
+49546864d02d4c73f68d2b32fbc447d3;Auburn University;Texas A&M University;3;1;Auburn University
+498a1106fadf1fb191e3613c35541ee8;Washington State University;Oregon State University;3;0;Washington State University
+4abc273609c90888b734a0c72b000d6f;Kansas State University;University of Oklahoma;1;3;University of Oklahoma
+4abd64ac80887688ecabd1a65656dacf;Boston College;Virginia Tech;3;2;Boston College
+4af8a6657ec6dd79cfd03a59474a413f;University of Kansas;University of Texas at Austin;2;3;University of Texas at Austin
+4af9c398605d1c4c016a0966327b46d5;Georgia Institute Of Technology;Boston College;3;0;Georgia Institute Of Technology
+4aff2744492f11f84ea831653e631931;Boston College;University of Louisville;0;3;University of Louisville
+4b1fbd2564b22db4812a9bf2569dc21d;University of Maryland;Ohio State University;3;1;University of Maryland
+4b3facc176cbe0a2c1f3f4437c03e096;Stanford University;University of Arizona;3;0;Stanford University
+4b9063d67e5e97d915c6e75a08effe5a;Duke University;University of North Carolina;1;3;University of North Carolina
+4bfc8a534ba93e15b48d8c3d5e8ad65b;Washington State University;University of Colorado, Boulder;3;1;Washington State University
+4ca7d276ff83b529d8f2bb7ba2c52a1f;University of Colorado, Boulder;University of California, Berkeley;3;0;University of Colorado, Boulder
+4cd55f56e11fcc80280bb64f9175e959;University of Missouri;Texas A&M University;3;0;University of Missouri
+4d912393064f409f6bb5eadc5c02171c;University of South Carolina;University of Mississippi;3;1;University of South Carolina
+4decf5de0c6008afec11b3a03ee55c2c;Ohio State University;University of Wisconsin-Madison;1;3;University of Wisconsin-Madison
+4e6d30d90e99986ccdcb05f7d95fb8d6;University of the Pacific;Loyola Marymount University;0;3;Loyola Marymount University
+4e8fb1b4865313cd416e78dfb0bf0140;University of California, Berkeley;University of Southern California;1;3;University of Southern California
+4fdcd1e3526b6742014fb6814b164e98;Saint Mary's College;University of Portland;3;0;Saint Mary's College
+506e5bfb8f0d23ff808174e5ff9d6a66;University of Kentucky;Louisiana State University;3;0;University of Kentucky
+5094d9ad8523ed916f21445bb43552d7;Georgia Institute Of Technology;University of Pittsburgh;1;3;University of Pittsburgh
+50983bb4da410a0553f0f0ab46e7d065;Iowa State University;Kansas State University;1;3;Kansas State University
+51163ac1e1360a4b3faf4adc5fe24767;University of Colorado, Boulder;University of Utah;3;1;University of Colorado, Boulder
+525652571205bb80348edbf75abf2936;University of California, Los Angeles;University of California, Berkeley;3;2;University of California, Los Angeles
+52bbd1aa5f1cc8ada641d9f17135d269;Clemson University;Wake Forest University;0;3;Wake Forest University
+52f266384b15d418622f072e62a743a0;University of Minnesota;University of Maryland;3;0;University of Minnesota
+52f2a2675e21c3d9a82fb315795fecbc;University of South Carolina;Mississippi State University;3;2;University of South Carolina
+53141f9bd045e6ae085b52cc9d13aaf4;University of Oregon;University of Arizona;3;0;University of Oregon
+53577f93f1158031d69ad0a7e7e6ee45;Loyola Marymount University;Gonzaga University;3;1;Loyola Marymount University
+54306f00533118aea7316158a61fd49e;Arizona State University;Oregon State University;3;1;Arizona State University
+54cd94423f6ff7c1fb52930868e5a9c0;University of Notre Dame;Clemson University;2;3;Clemson University
+558abe11b5c7d2fc3e7caf03296f6af5;University of Arizona;University of Oregon;1;3;University of Oregon
+5598217479113674007df246bc4cf469;University of Portland;Saint Mary's College;2;3;Saint Mary's College
+5610e3eafaa1dbc0b62e8f833f42ce3d;University of Kansas;Iowa State University;3;2;University of Kansas
+564c5625585754258cd27110a21f7773;University of Utah;University of Washington;3;0;University of Utah
+56ad09ebf65932875caed16b377a0599;Georgia Institute Of Technology;University of Virginia;3;0;Georgia Institute Of Technology
+56bcbf2f6e68fd7db0a96cb12402d82f;University of Mississippi;University of Missouri;3;0;University of Mississippi
+570f036c1ae81e625f60d49d90cd4202;Florida State University;Georgia Institute Of Technology;2;3;Georgia Institute Of Technology
+571f39a13fd700b29bb63a404fd9af5a;University of Portland;Pepperdine University;0;3;Pepperdine University
+5848480e17d8f1a30318d6e7cb3f15ed;University of Miami;Florida State University;0;3;Florida State University
+5861fa5c31214863aa24a92656e7ddf0;University of San Diego;University of Portland;3;0;University of San Diego
+587cf99250da794a2afa168e23089d10;University of Arkansas;Texas A&M University;3;2;University of Arkansas
+58cd818fcf719808cdfcd9cc764cdfd8;University of Maryland;University of Illinois Urbana-Champaign;0;3;University of Illinois Urbana-Champaign
+590f0136eebca179b32b05aff754b377;West Virginia University;University of Kansas;1;3;University of Kansas
+59cb572e01074a7c4176efa405274465;University of Notre Dame;Duke University;2;3;Duke University
+59cf55982ade7c7d7b65b903c28d91f3;University of Minnesota;Michigan State University;3;0;University of Minnesota
+59f72ad85cac5f21ba47013afeb8509a;West Virginia University;University of Oklahoma;0;3;University of Oklahoma
+5a7e8c8f6e0c7cfd44024ebd846a01e5;Louisiana State University;University of Mississippi;3;2;Louisiana State University
+5a96dc3057c474a620000be4752b3544;Syracuse University;University of Pittsburgh;0;3;University of Pittsburgh
+5b559991dc8f27071b26af1ca29ff829;Auburn University;Mississippi State University;3;2;Auburn University
+5bf4825c5c00926e913283cc47164243;Mississippi State University;University of Arkansas;3;0;Mississippi State University
+5c07d7a1828a096a1a0da419b6fa344a;Louisiana State University;Auburn University;3;2;Louisiana State University
+5c9b38a9b9ba93972f688b8e0d5d7455;University of Alabama;Auburn University;1;3;Auburn University
+5d7a5827529932230e12cc7d0fcbee40;University of Iowa;Ohio State University;0;3;Ohio State University
+5db4cc799fc9cea696ec41d275e918d9;University of Miami;Duke University;3;0;University of Miami
+5dcc3c647a76beae9dac28bdae97fd4f;University of California, Berkeley;University of Washington;0;3;University of Washington
+5e2415e01cbc2bb5ebdcf077883259e3;University of Southern California;Washington State University;2;3;Washington State University
+5e361ea5787e9cd104dc4e19d58fe72d;University of Colorado, Boulder;Oregon State University;3;0;University of Colorado, Boulder
+5e41089778313faa6443887ad5882134;Saint Mary's College;Gonzaga University;3;2;Saint Mary's College
+5eab5d0449739bc1cdedd95e62a63f3a;University of California, Berkeley;University of California, Los Angeles;0;3;University of California, Los Angeles
+5edb1742f446e3bfc95bc921c634f92b;Duke University;University of Miami;2;3;University of Miami
+5ef752a1f95e0368983d51d3a1b14f80;Arizona State University;University of Utah;3;1;Arizona State University
+5f18382940f388e8ae811a2c7ec1cf8f;Texas A&M University;Louisiana State University;1;3;Louisiana State University
+5f20ec14fb9773dab1980f0f65786ffd;University of Portland;Santa Clara University;2;3;Santa Clara University
+5f2295e0e92db724e87c1c1acd6ce865;Northwestern University;Michigan State University;0;3;Michigan State University
+5f7094f5f623b20667d246fabbc70253;Pennsylvania State University;University of Wisconsin-Madison;2;3;University of Wisconsin-Madison
+5fe86e6794081bc8817c9489adff2749;University of Alabama;University of South Carolina;0;3;University of South Carolina
+60792eae94ca2520c11617c4ed67287d;University of Portland;Gonzaga University;2;3;Gonzaga University
+6092c212db1372abdae8a4cbcb47c148;Loyola Marymount University;University of the Pacific;3;0;Loyola Marymount University
+60f0a7f123eb3fc830d12679b1ae3e75;University of San Diego;Brigham Young University;3;0;University of San Diego
+61278c8307ec7af45bd94d0e1f43880c;Wake Forest University;University of Virginia;3;0;Wake Forest University
+61efa8b5dfcdae24993e1fb4f93843bd;University of Washington;University of Oregon;3;2;University of Washington
+61f9446560574b6013696805a581bf83;Ohio State University;Northwestern University;3;1;Ohio State University
+62983f0cf39db88ea72857e2db314c8a;Texas A&M University;University of Florida;1;3;University of Florida
+62cfcd7917a0251deebbc2a9e95b3670;Syracuse University;University of Louisville;0;3;University of Louisville
+6351ba5f3a92994c6c49dc1c436f9f94;University of Texas at Austin;Baylor University;3;1;University of Texas at Austin
+639d7862fb49c3865a9a77818d4aac08;University of Portland;Brigham Young University;0;3;Brigham Young University
+65617f78f59cd64cff9f5f90dc83720b;Arizona State University;Washington State University;0;3;Washington State University
+6607fafee761865494e7a214c346fe43;University of California, Los Angeles;University of Southern California;1;3;University of Southern California
+666dc3604aabc1215f5b0d6ceccf5a47;University of Notre Dame;Florida State University;2;3;Florida State University
+67a22084f8a99f4c6b79cc9fd9b8a1d9;Duke University;North Carolina State University;3;1;Duke University
+67ed0c58cd4c8f765a727d1a507cc2cc;Wake Forest University;University of North Carolina;3;1;Wake Forest University
+67f69139a8190bfc3ad5370456735e40;Pennsylvania State University;Ohio State University;2;3;Ohio State University
+6821ef6c13af99b63b08f92f3da5525a;University of Louisville;Clemson University;3;0;University of Louisville
+6831af824ddd4fd8544dca11df44f464;University of Kansas;Baylor University;2;3;Baylor University
+687738dd874ea7aa034ec83af2fa2269;University of Virginia;North Carolina State University;2;3;North Carolina State University
+68b63168396f77e3a33eaea9f27446bf;University of Maryland;Michigan State University;2;3;Michigan State University
+6984e73369b6c5bdcc03a96e7834428f;University of San Diego;Saint Mary's College;3;0;University of San Diego
+6a5d4310e1f26d3558cc52891d3b0c03;Louisiana State University;University of Georgia;0;3;University of Georgia
+6ab5c5c49428a77259712a6cc02e5341;Baylor University;Kansas State University;3;0;Baylor University
+6b9856bb72cbb5b8edb34e17ad823ff7;Rutgers University;University of Michigan;0;3;University of Michigan
+6bfff05b2e9e6b8131a154c1bf2b8edd;Texas Tech University;Iowa State University;0;3;Iowa State University
+6c0614410573c7b889506c8bb3895cd4;University of Notre Dame;Virginia Tech;3;1;University of Notre Dame
+6c55acb3e50e2dc47e7a09749c3345de;Gonzaga University;Santa Clara University;2;3;Santa Clara University
+6c9d8240c243e23c69ad59f69fa009c7;Iowa State University;University of Oklahoma;3;1;Iowa State University
+6d7bca902c2612effc611c4ae21fe519;Northwestern University;Pennsylvania State University;1;3;Pennsylvania State University
+6d9690da4a616bf904fb2be85edf334c;Purdue University;University of Michigan;3;1;Purdue University
+6e61640f149eab38135eade3e155462c;University of Illinois Urbana-Champaign;Pennsylvania State University;3;1;University of Illinois Urbana-Champaign
+6ef1532a9f91491fd289a660ee738864;University of Oregon;University of Utah;3;1;University of Oregon
+6f457bcdbb5525b6c339fad6ee36135a;University of Nebraska-Lincoln;Pennsylvania State University;3;0;University of Nebraska-Lincoln
+6f9959909f6dbff2ef23f760f713c391;Mississippi State University;University of Kentucky;1;3;University of Kentucky
+706d8181c1fbb50513356a2b5be1c5c8;University of Utah;Washington State University;0;3;Washington State University
+70bfc01ab9ff95ea30b45e90001dcea2;Michigan State University;University of Michigan;0;3;University of Michigan
+719694bb521ad68d29e02ed72a0ab401;Clemson University;University of Pittsburgh;0;3;University of Pittsburgh
+719b07316c456b27be17e151773372d3;Stanford University;Oregon State University;3;1;Stanford University
+72b7e9d1b311aa4574f6e5d1de25d089;Rutgers University;University of Minnesota;0;3;University of Minnesota
+73cfd1ba64af614afea182b2f81e70ae;Wake Forest University;North Carolina State University;3;1;Wake Forest University
+73d002a92cd356387347eefb3019bc27;University of Kansas;Kansas State University;3;0;University of Kansas
+73eff4284a68d4fa64e2ee217fc13170;University of California, Berkeley;University of Arizona;2;3;University of Arizona
+740a77389f13cc176677933f9eef7a4f;University of Arizona;Stanford University;0;3;Stanford University
+75491433fd2d8ddc9f9829de249192c3;Rutgers University;Pennsylvania State University;0;3;Pennsylvania State University
+766d5ba8633dd2a2401d3d492717f0c3;University of California, Los Angeles;University of Oregon;2;3;University of Oregon
+76c53ed4c3934a73d2414419b71cbb13;Santa Clara University;Saint Mary's College;0;3;Saint Mary's College
+7701a49bd9d345360d09813163d5ede7;Oregon State University;University of Washington;1;3;University of Washington
+77fb8c73e00dfd5d6e4cefbd00f5afd6;Arizona State University;University of Washington;2;3;University of Washington
+77fdee413b059dfbc2170daf289b36bb;University of Southern California;Stanford University;2;3;Stanford University
+7812c2412d66237706ef16e260b398ed;Texas A&M University;University of Kentucky;1;3;University of Kentucky
+78253da084ef056b8ae228a10ea8c5d1;University of Illinois Urbana-Champaign;Michigan State University;3;1;University of Illinois Urbana-Champaign
+78d9ed827ad6d61ec065a58e48c9bff7;University of Colorado, Boulder;Washington State University;3;1;University of Colorado, Boulder
+7940570f1e58be0e00bb421fa14059b3;University of Arkansas;University of Mississippi;3;1;University of Arkansas
+7a9736f1cdf5602afa33f102b2686bac;Saint Mary's College;Pepperdine University;0;3;Pepperdine University
+7ab07882179c25c487dc44d07380d19f;University of Portland;Loyola Marymount University;2;3;Loyola Marymount University
+7ae7a522407916f32262f9509af4c812;Brigham Young University;University of San Diego;1;3;University of San Diego
+7b310b737d17e50435be3a61447dc6c4;Ohio State University;Pennsylvania State University;3;2;Ohio State University
+7b4ba31c0f8044144bb075c1a9ed0745;Ohio State University;Rutgers University;3;0;Ohio State University
+7b5d6c1ce3dc5944f125c2ee0d9667b3;University of Missouri;Louisiana State University;2;3;Louisiana State University
+7b7e965d10d26543d81fdcbc401851bf;University of Georgia;University of Arkansas;3;2;University of Georgia
+7bf4de308a8501a64445cfd1131890a9;Iowa State University;University of Kansas;3;1;Iowa State University
+7c68db5358e966ce2ae7df5300d245a0;Arizona State University;University of Oregon;0;3;University of Oregon
+7d545bf98442bcb4bf88c3bff9f2c3d3;University of Virginia;University of Miami;1;3;University of Miami
+7dd511886e75b1c281ba9f749e9ab751;Wake Forest University;Boston College;3;1;Wake Forest University
+7de7be49ab19e29f72916730988feb0c;University of Utah;University of California, Los Angeles;0;3;University of California, Los Angeles
+7e560570ec7d06454ae4dae4380139a7;University of Tennessee;Mississippi State University;3;0;University of Tennessee
+7fd4ca73ff81713c3ca2bac2e081a64c;Mississippi State University;University of Florida;0;3;University of Florida
+8024836e58366b41847b4f52686f56a7;Ohio State University;Indiana University, Bloomington;2;3;Indiana University, Bloomington
+8134caec443d9578aa8f13b77126eaef;University of Portland;University of the Pacific;3;2;University of Portland
+8146f077db7ec3ac17e6e0cc13c1c1c7;University of California, Berkeley;University of Oregon;0;3;University of Oregon
+826b7050bfc4eb5f9e77cccf0c4455de;Auburn University;University of Florida;0;3;University of Florida
+827d57170cbe82c062ecd4514c9438ac;University of Florida;University of Arkansas;3;2;University of Florida
+82e694a69becba1cc468fa9d902694fb;Boston College;University of Miami;3;1;Boston College
+832f2ca9f8a50b9cb1ae1eb297aa26c7;University of Southern California;Arizona State University;3;1;University of Southern California
+836ee335d13b040875fcc9b288424411;University of Alabama;University of South Carolina;3;0;University of Alabama
+839f460954677411b6acb4d962a12c2b;Syracuse University;University of Miami;0;3;University of Miami
+83a3361b6247c6f659760996db5f5553;University of San Francisco;Gonzaga University;3;0;University of San Francisco
+83a42489f74915d3d743ddccda22e035;Santa Clara University;University of the Pacific;1;3;University of the Pacific
+83b6f75adb175ca01982a87fe66e8294;Washington State University;Stanford University;0;3;Stanford University
+83da714af321545abeb1f575d287a1c9;Indiana University, Bloomington;University of Illinois Urbana-Champaign;3;1;Indiana University, Bloomington
+83eb50255d44d7bea45669c5fd07994a;University of Washington;Arizona State University;2;3;Arizona State University
+844f9a270b0435a98a6284cd916f4dae;Auburn University;University of Arkansas;0;3;University of Arkansas
+84a8fb874bbee0ad9e37e6eda0850788;University of Southern California;University of Arizona;3;2;University of Southern California
+84cb0f4c424f2db858021f6fc6df3250;Rutgers University;University of Iowa;3;0;Rutgers University
+84f6396ca4299da081bf059c0114f3b9;University of North Carolina;University of Miami;1;3;University of Miami
+8528aca7ca628814a5e9b4577d5bccab;University of Virginia;Florida State University;3;2;University of Virginia
+859d6ba424c65ab60c3dd43b578d1da0;Duke University;Georgia Institute Of Technology;1;3;Georgia Institute Of Technology
+85cb668929d77f760cdbdcdbabaec108;University of Missouri;Auburn University;3;1;University of Missouri
+85d483ff6c3f845983e84ae2f6238f3e;University of Colorado, Boulder;Arizona State University;3;0;University of Colorado, Boulder
+86ec5e0e07b9459cc027a48d5b179426;University of Maryland;Indiana University, Bloomington;2;3;Indiana University, Bloomington
+87a98ce01d024667df58fd0984de4102;University of Louisville;University of Notre Dame;3;0;University of Louisville
+87cc321acd8d1c5110d3835dff61bb73;Purdue University;University of Iowa;3;2;Purdue University
+88bf384a881783a2c4b845471ac347e6;University of Minnesota;University of Illinois Urbana-Champaign;3;0;University of Minnesota
+893849220e466d8ed466c1064eb23346;Indiana University, Bloomington;University of Iowa;3;0;Indiana University, Bloomington
+898097568f81aac62bd9057bb7a3c079;University of Southern California;Oregon State University;3;1;University of Southern California
+8a1a5d19021030c5f524f0130031a4f6;Virginia Tech;University of North Carolina;1;3;University of North Carolina
+8a6cd7d72b494eddfe7cd438a639a19a;University of Maryland;University of Iowa;3;1;University of Maryland
+8b6714b147ccf91a080475ed91232105;Kansas State University;Texas Christian University;2;3;Texas Christian University
+8b85dc375eed9e710a3f08b1bc9b0c1a;University of Oklahoma;University of Kansas;0;3;University of Kansas
+8b95d16bad9c510635d6c23dd6a780a3;University of Texas at Austin;Texas Tech University;3;0;University of Texas at Austin
+8babbec731436d72e1764ccaa83226ff;University of Kentucky;University of Mississippi;3;1;University of Kentucky
+8bb3302a2a65baac39b3ef7d233f7c6a;University of Iowa;Pennsylvania State University;2;3;Pennsylvania State University
+8c389aae363c4e1e8766744344e7f00e;University of Michigan;University of Wisconsin-Madison;1;3;University of Wisconsin-Madison
+8cf581c2d5e25b1497ca044f7d9657c0;University of Mississippi;University of Florida;0;3;University of Florida
+8d2803bd1be4c0fd52c505c040bf834f;Louisiana State University;Mississippi State University;3;2;Louisiana State University
+8de5fd3ef7d20f2d2904b980100ebe5d;University of Louisville;North Carolina State University;3;0;University of Louisville
+8e6742e5ea9db364de7829246218e66e;University of Arizona;Oregon State University;3;2;University of Arizona
+8eb09cd04fabb33c6757c052ed2bd52a;University of Tennessee;University of Georgia;3;2;University of Tennessee
+8eeceb71b654e408c338fa90821d5d34;Ohio State University;University of Minnesota;1;3;University of Minnesota
+8ef89b32e357df1babd2813edfa48c57;Syracuse University;Boston College;3;2;Syracuse University
+8f6e88e66c29cb65567d4f82c0cf0099;Boston College;University of Pittsburgh;1;3;University of Pittsburgh
+8fb1d644dafa72c45ddb5d6da7ff7fa5;Gonzaga University;Brigham Young University;1;3;Brigham Young University
+90b5f3fb084ea9a021ed5e6eb011b00d;Santa Clara University;University of Portland;3;2;Santa Clara University
+912c35ddcb0af69b727e04f6a394b292;University of Washington;University of Colorado, Boulder;0;3;University of Colorado, Boulder
+91c3e89af0e421bed2a9ae3b66205e91;University of Colorado, Boulder;University of Oregon;2;3;University of Oregon
+92200a2a1a540d2a35d46a2954c9232d;University of the Pacific;Gonzaga University;3;1;University of the Pacific
+924701dccd85ed3205b2b91c2fcadd9f;Arizona State University;University of California, Los Angeles;0;3;University of California, Los Angeles
+92485cd9ddc501d3b0892f5d0171c2d4;University of Georgia;University of South Carolina;3;2;University of Georgia
+926a07e1cfca26a1f870fe482e568113;University of Maryland;University of Michigan;1;3;University of Michigan
+9286e953cf83c8b7d65e19f022e0b841;University of California, Los Angeles;Arizona State University;3;0;University of California, Los Angeles
+92bcf425cbd37e2a835e5ccab3af623c;Virginia Tech;North Carolina State University;1;3;North Carolina State University
+92f04e98f25695615f1b14d51e3f485b;University of Arizona;Washington State University;1;3;Washington State University
+93e9f0f4bedfd88cab50f246e815d8e0;University of Oregon;University of California, Los Angeles;3;2;University of Oregon
+948de507c4b17133ddd50280a3809771;University of Pittsburgh;University of Notre Dame;3;0;University of Pittsburgh
+948f9ae27472f2aeaed840fba8bf9100;Indiana University, Bloomington;Northwestern University;3;2;Indiana University, Bloomington
+94f7c54190250f252fbbc46865cbe4a9;Wake Forest University;Virginia Tech;3;1;Wake Forest University
+95f6b0280aba566949e19321978f8f51;University of San Francisco;Pepperdine University;0;3;Pepperdine University
+960fe2d29b6b81862a4d112f1ee1c36b;Georgia Institute Of Technology;Clemson University;3;0;Georgia Institute Of Technology
+968985e04f4c7b6d0eceaedacc08d32c;University of Alabama;Auburn University;1;3;Auburn University
+968a882b496116a03cc634eeaa49b535;Purdue University;Ohio State University;1;3;Ohio State University
+96a7fcf820e06b1d008129f941531443;University of Iowa;University of Wisconsin-Madison;0;3;University of Wisconsin-Madison
+96aef003b1eda1c161baf26a40410a49;Pepperdine University;University of the Pacific;3;0;Pepperdine University
+96c18db9717c30085fb6e6a59b87719a;Duke University;Boston College;3;2;Duke University
+96ec98e60f0cf6c829a96a4fb0df43db;Oregon State University;Arizona State University;2;3;Arizona State University
+982840a69405d6e5f2f1414d15c6c9af;University of Michigan;University of Illinois Urbana-Champaign;1;3;University of Illinois Urbana-Champaign
+98356a46bd0a253648cdb49157e92677;University of California, Los Angeles;University of Colorado, Boulder;1;3;University of Colorado, Boulder
+987b94ee400b6f0ab2b449a0ba5710dd;University of Michigan;Purdue University;1;3;Purdue University
+98ae24ca84c4c897abfb314bd4424d40;University of Arizona;University of Southern California;1;3;University of Southern California
+997c00a9da6f245bc176e4f94e60749f;University of Southern California;University of California, Berkeley;3;2;University of Southern California
+997c7e6b9f3b44806e43d0d89bb916c9;University of Utah;University of Southern California;3;0;University of Utah
+9a3ae87d84a15caf2efdc882f0bd161c;Loyola Marymount University;University of San Francisco;1;3;University of San Francisco
+9af01770567bf0e5d7c52b721826d973;University of Minnesota;University of Michigan;3;0;University of Minnesota
+9bbcc74234c9568b32162cd4489edc86;Georgia Institute Of Technology;Wake Forest University;3;0;Georgia Institute Of Technology
+9bda3f282e108b3ec957664db2989cfb;University of Arizona;University of California, Berkeley;3;0;University of Arizona
+9be0e82f5664540063f486d69faaa292;North Carolina State University;University of Virginia;3;1;North Carolina State University
+9c519960d4551775df38442eebd9112c;University of North Carolina;University of Louisville;0;3;University of Louisville
+9cbaf52f1786d0e1624529a388f8f6a0;University of Iowa;Indiana University, Bloomington;3;2;University of Iowa
+9d10dbb9f9fbe446b27d1ac71efe594b;Indiana University, Bloomington;Michigan State University;3;2;Indiana University, Bloomington
+9d2816857c4e0ef2678e688721da0933;Texas Tech University;University of Kansas;3;0;Texas Tech University
+9d33c7279fa1ae27ec87372d210741a4;Stanford University;University of Southern California;3;0;Stanford University
+9da4a60ce19c4767cfbe7c5fed7a9ff0;University of San Francisco;Loyola Marymount University;2;3;Loyola Marymount University
+9dc32978ede8cf252ffd50186b77495e;Pepperdine University;Gonzaga University;3;0;Pepperdine University
+9deda7f68231f3bbc41949c7e480180d;Washington State University;Arizona State University;3;0;Washington State University
+9e3a15491415fcec0a3d895a155c7090;Auburn University;University of Tennessee;3;1;Auburn University
+9ec93966012ebdaa09e65bca0a611391;University of South Carolina;University of Florida;3;2;University of South Carolina
+9f33ff25fc4f5c216b6d22a4a233f0f7;University of Iowa;University of Maryland;1;3;University of Maryland
+a09aaa6c14fad39322f599ed7cbb4e6e;Arizona State University;University of California, Berkeley;3;0;Arizona State University
+a0df855cf3c845e82960e13aa5c50940;Northwestern University;Ohio State University;0;3;Ohio State University
+a13e7bbbfb0cc1973bb18f63561344c7;Santa Clara University;Brigham Young University;0;3;Brigham Young University
+a1a4d3ef2dda0e66fbe0bb63d842b58f;Pennsylvania State University;Purdue University;3;2;Pennsylvania State University
+a1b30504a2382019e5e0adff0d5f5b32;Purdue University;Rutgers University;3;0;Purdue University
+a1b3bf1429adde754388a3b4bdedb572;Indiana University, Bloomington;University of Wisconsin-Madison;0;3;University of Wisconsin-Madison
+a231a5923b999db411e84ea5c4d7b5d7;University of Nebraska-Lincoln;Purdue University;3;0;University of Nebraska-Lincoln
+a29d463fcfd39a8561e4f90318e32ebb;University of Wisconsin-Madison;Northwestern University;3;0;University of Wisconsin-Madison
+a2b96fe6ca028a93df78d2a16800edb4;West Virginia University;Iowa State University;0;3;Iowa State University
+a2e68e95126ddef86e1bdd0977b3e265;Michigan State University;University of Iowa;2;3;University of Iowa
+a30eda904ac80600a15adf0650e3cbe9;University of Notre Dame;North Carolina State University;1;3;North Carolina State University
+a401aa74389bb558a684c893e88cb2cf;Gonzaga University;University of San Francisco;0;3;University of San Francisco
+a4aafd414f13a187595fea2097a3cf00;Rutgers University;University of Illinois Urbana-Champaign;1;3;University of Illinois Urbana-Champaign
+a4abbbea9f0275941b7e0dbc6b432bfb;Mississippi State University;University of Florida;0;3;University of Florida
+a5fea50479c166aba9eb0e4f4297fae7;Syracuse University;Florida State University;1;3;Florida State University
+a63d3ea0c9aa04302aee775e7eb43fd3;Pepperdine University;Santa Clara University;3;0;Pepperdine University
+a68b2605c057c76017608c750581c02d;University of San Francisco;Brigham Young University;1;3;Brigham Young University
+a70735d6f0e088379d2da7e1d846bfdd;University of Michigan;University of Nebraska-Lincoln;0;3;University of Nebraska-Lincoln
+a73adb955247aac7da2ce12f1dd43d6a;University of San Francisco;University of Portland;3;2;University of San Francisco
+a768e6d50f7c2bcd31418cf30b4bc77b;University of Kentucky;University of Tennessee;3;1;University of Kentucky
+a7721d9a7e45b7a2f7bec6ffaadbf76d;Oregon State University;University of Southern California;0;3;University of Southern California
+a83545a1243852d2f444c3f472a2aeaa;Wake Forest University;University of Pittsburgh;0;3;University of Pittsburgh
+a89a9a88954c82e077b4351caf515c89;University of Tennessee;University of South Carolina;3;0;University of Tennessee
+a8ca150caaca3686f52621662511298f;Northwestern University;University of Michigan;1;3;University of Michigan
+a906b440c06f1be6f9839f4c740e0f61;University of Kentucky;University of Alabama;3;1;University of Kentucky
+a926cee22098abd29905d67ddcba4ccf;Clemson University;Syracuse University;0;3;Syracuse University
+a99b9f17fc2af38f6088ddd42b49dee3;University of Texas at Austin;University of Oklahoma;3;0;University of Texas at Austin
+aa0f4ba1a29ebfcd200984bcf279da5a;Loyola Marymount University;Pepperdine University;3;1;Loyola Marymount University
+aae6b91cd3d21d72c2b74f564690f03d;University of Georgia;University of Mississippi;3;1;University of Georgia
+abc7c42f13aa2fce470e9b6a126a1063;Brigham Young University;Pepperdine University;3;1;Brigham Young University
+abd00ed2d215441320dde5b15b4780e7;University of Washington;University of Arizona;3;0;University of Washington
+abd56272c39de044e4aef29301957b33;Ohio State University;University of Michigan;3;0;Ohio State University
+abfcc3b7086072725744efbe96854a47;University of Oregon;University of Southern California;3;2;University of Oregon
+ac66ed8b7111be9f67e6b3d0555d365d;Kansas State University;University of Kansas;2;3;University of Kansas
+acc07c393a2ee7aa2b894ffefa30392a;University of Iowa;Rutgers University;3;0;University of Iowa
+ad0710eccd07c18aca7607666a895c9f;Iowa State University;Baylor University;3;1;Iowa State University
+adcce3b0612c09747c4532cfab73d930;Brigham Young University;Saint Mary's College;3;0;Brigham Young University
+aebf870a7f9bf529bf09fb58a72438c7;Clemson University;North Carolina State University;3;1;Clemson University
+afa4b5f7521401ea1b019c5d68788dfd;University of Oregon;University of Colorado, Boulder;3;0;University of Oregon
+b040a1e17b51bb167361dcf58c689097;Mississippi State University;University of Arkansas;2;3;University of Arkansas
+b09851f39f090f56b0cb7995465de14f;Pennsylvania State University;University of Illinois Urbana-Champaign;3;0;Pennsylvania State University
+b0b9d051bf12678e3a0b846c50912cae;University of Florida;University of Missouri;3;0;University of Florida
+b101ee8c1924b0fb472c4a0978df470a;University of Florida;University of Kentucky;0;3;University of Kentucky
+b110116e4c445ed37b63d108d9a9080c;University of Kansas;University of Oklahoma;2;3;University of Oklahoma
+b16c3931e312a1ece88c197581123380;University of Missouri;University of Arkansas;0;3;University of Arkansas
+b1a82fd4870f48e1b39b2bb0b2bb4386;Brigham Young University;Gonzaga University;3;0;Brigham Young University
+b20a80ff0f45f43b8fe33062646d1e1a;Syracuse University;Duke University;3;1;Syracuse University
+b240873ce3e0f75165f604ae7ba25091;Ohio State University;University of Illinois Urbana-Champaign;3;0;Ohio State University
+b24977c490eda261c04f2d386890243e;University of Maryland;Pennsylvania State University;1;3;Pennsylvania State University
+b2898da27d46114f7439a77e6fe2c6da;University of Utah;University of Oregon;1;3;University of Oregon
+b2f2555de76622f6660e92e469bac15f;Baylor University;University of Oklahoma;3;2;Baylor University
+b31950ab09eb8fdb36e661c7d7ffe2a4;Florida State University;Virginia Tech;3;0;Florida State University
+b3ac46d1e2a60c3489dd08d3a598b332;University of Oregon;Washington State University;3;1;University of Oregon
+b3bebe09cc602866fe9893f5bd27f510;Georgia Institute Of Technology;Florida State University;3;0;Georgia Institute Of Technology
+b4544c0d766bf0b4cdeec271541c60c4;Texas A&M University;Mississippi State University;1;3;Mississippi State University
+b4ae57361faf70dd6ea5798d9be95e83;Purdue University;University of Maryland;0;3;University of Maryland
+b4bc9433fdc53cb4b684073e968d9e6f;Texas Tech University;Baylor University;1;3;Baylor University
+b4ebfad1f00ae17c12bb025e27e33ac4;Syracuse University;University of Notre Dame;0;3;University of Notre Dame
+b515ee02857c2334ff80e031f2674b5a;Texas A&M University;University of Tennessee;0;3;University of Tennessee
+b55025e5e489534d6fa11653fd765244;University of Notre Dame;Wake Forest University;3;2;University of Notre Dame
+b588303b91d884facc8eff906d6ed1dd;University of Utah;University of California, Berkeley;3;0;University of Utah
+b69ae561618c9c473c46e6d7a5db57d2;University of North Carolina;Clemson University;3;1;University of North Carolina
+b77e5ed6446f9f34ad3379371404abd6;University of Maryland;University of Nebraska-Lincoln;1;3;University of Nebraska-Lincoln
+b87c41990789627c65ec2d57b62aa16e;University of California, Los Angeles;Oregon State University;3;0;University of California, Los Angeles
+b8905ae5162827c5fe6a030a332e2b59;Boston College;University of Notre Dame;1;3;University of Notre Dame
+b8a657de638949181b1c435465cba521;Texas Christian University;University of Oklahoma;3;1;Texas Christian University
+b99b74f48695f8b23a84ed693e842f6e;University of Michigan;University of Minnesota;0;3;University of Minnesota
+b9deafabf33a0fbaee8da3730dbec072;Santa Clara University;University of San Francisco;3;0;Santa Clara University
+ba2ef16536391aba2bf3c6991f03fc65;University of Miami;Virginia Tech;3;0;University of Miami
+bae94c922050edefd3562d7c9a029206;Northwestern University;Rutgers University;3;0;Northwestern University
+bb188d34831fb92ef47be5ec593ee510;Oregon State University;University of Oregon;1;3;University of Oregon
+bbc2888ca36457fe0fd2840359cc6b96;West Virginia University;Texas Christian University;2;3;Texas Christian University
+bbd140f1f1e9676411525502dae8a858;University of Arkansas;University of South Carolina;3;0;University of Arkansas
+bbfca9c56407fce375723a9b189a38ff;University of Arkansas;University of Tennessee;3;0;University of Arkansas
+bc1520fd4ee7d9c34d13776b96f84201;Clemson University;Virginia Tech;2;3;Virginia Tech
+bc2eae40c98f067fad8a666f799f6681;University of California, Berkeley;University of Utah;2;3;University of Utah
+bd29487607e18f4f7ef1ed3c39821882;Texas A&M University;University of Alabama;1;3;University of Alabama
+bd848eb698ca1ef32552398d369fd911;University of Illinois Urbana-Champaign;Purdue University;2;3;Purdue University
+bdb0a7264d2e54ed1b25a0d42911050c;Pepperdine University;Loyola Marymount University;1;3;Loyola Marymount University
+bdc689b5e4d18f22e424b349002bbdcc;University of Arizona;Arizona State University;1;3;Arizona State University
+be25b27ade471b4f88f2b6ea78d0c801;West Virginia University;University of Texas at Austin;0;3;University of Texas at Austin
+be6ef45d1ed19b4fab63d8817446ce30;University of Louisville;Georgia Institute Of Technology;3;1;University of Louisville
+bed47996501313aba519d76b9a6363ea;Gonzaga University;Pepperdine University;3;2;Gonzaga University
+bf0820ccaf16dcc72cb961dbde71783e;Indiana University, Bloomington;Purdue University;2;3;Purdue University
+bf8a805d6215b72f25cd274021a8ba6f;Michigan State University;University of Nebraska-Lincoln;0;3;University of Nebraska-Lincoln
+c0329bab1d3a421888e9a882acf77350;Ohio State University;University of Iowa;3;1;Ohio State University
+c0e54e54ae6bae48275033f057efdc0d;University of Virginia;Wake Forest University;0;3;Wake Forest University
+c1a418ad09305957ca39440dfe68537d;Clemson University;Georgia Institute Of Technology;0;3;Georgia Institute Of Technology
+c3047ebff7f3c8791fe1f8f8acbd80b2;University of South Carolina;University of Florida;1;3;University of Florida
+c37bd343bee6a6e86ee6a7e5ce0d58d1;Clemson University;University of Virginia;3;1;Clemson University
+c3a2b7dcf84802abd1d6326d66bdda25;Brigham Young University;University of San Francisco;3;0;Brigham Young University
+c3ff7085f8c06dade5e8a0c760ada690;West Virginia University;Texas Tech University;2;3;Texas Tech University
+c47c9d03cec15782befa23a520edee3e;Texas Tech University;Kansas State University;3;0;Texas Tech University
+c52361ec372fb5663e6027048af66f41;University of South Carolina;University of Mississippi;1;3;University of Mississippi
+c5be4eebf4c816f2c55ddd62c47fe60b;University of Arizona;University of Washington;3;2;University of Arizona
+c653661bcd4fed57feef0dfab3da64cc;Baylor University;Texas Christian University;3;1;Baylor University
+c66965899b45576c83fd80b31158cbe0;University of Georgia;University of Alabama;3;0;University of Georgia
+c681c45a51327fd16865c1efcf2a8972;University of Pittsburgh;University of Miami;3;0;University of Pittsburgh
+c739cbf0a42ef7389d07abfab9f19b65;University of Oklahoma;Iowa State University;1;3;Iowa State University
+c7666867d1d863c2bada3a726f247192;University of Oklahoma;Baylor University;1;3;Baylor University
+c7ec4d2ed01dec5a3b8af9b044bef118;University of Mississippi;University of Florida;2;3;University of Florida
+c8b96af889df59abc4ae1845e3ad037f;Boston College;Syracuse University;3;0;Boston College
+c8da10879671026a3d89337d7cbcbed5;Northwestern University;University of Maryland;0;3;University of Maryland
+ca1cfed43053ae0bb4cdd58cfda169fd;Florida State University;Wake Forest University;3;0;Florida State University
+ca20f93a1509ba13a0b25732e9ad30e3;University of Florida;University of Kentucky;3;0;University of Florida
+cabd56ecd984f2181c266fdb3100138b;University of North Carolina;University of Virginia;3;0;University of North Carolina
+cae4ed07cdbbc6d5161f5db2de2e443b;Florida State University;University of Miami;3;2;Florida State University
+cb31fc9bb856bf9af5712e18ce0449f9;University of Wisconsin-Madison;Rutgers University;3;0;University of Wisconsin-Madison
+cb77833df23cc5f004bbe8be42374dee;University of Tennessee;Louisiana State University;3;0;University of Tennessee
+cbe46264ede0847850c0d5e370511eed;Washington State University;University of California, Los Angeles;2;3;University of California, Los Angeles
+cc898a553b82f2ca3022dc6b69c84217;Arizona State University;Stanford University;1;3;Stanford University
+cc9ba24874bd740998e6cbc392987ff6;Santa Clara University;Loyola Marymount University;0;3;Loyola Marymount University
+cd9f746b62dda8a5a3044cae877f829f;University of Georgia;Texas A&M University;3;2;University of Georgia
+cdde88ce59b1b5142d78fe0219360ed2;Clemson University;University of Miami;1;3;University of Miami
+ce953859f146d7b59738f913adbc1377;University of Wisconsin-Madison;Indiana University, Bloomington;3;1;University of Wisconsin-Madison
+ceef0d129edc749659b9d6bdd71b3dd5;Pepperdine University;Saint Mary's College;3;1;Pepperdine University
+cf0be893f96dd08f7e2a8be06f3fe54c;Oregon State University;University of California, Los Angeles;1;3;University of California, Los Angeles
+cf4487d66645cc54f38d07a83c56826f;North Carolina State University;University of Miami;3;1;North Carolina State University
+cf969a5c7968252806c4b05afdc6182a;Purdue University;University of Minnesota;3;0;Purdue University
+d128ac8a40f57ac2d44d80bc62404716;Stanford University;University of California, Los Angeles;3;0;Stanford University
+d212de35ac65f2c84c9794e36695ab2b;Pepperdine University;University of San Diego;1;3;University of San Diego
+d268ff4a232f1e98d33ca1b5cdedc814;Kansas State University;Iowa State University;3;0;Kansas State University
+d27e4b6334f6522434bade6efc4e178b;Oregon State University;University of Colorado, Boulder;3;1;Oregon State University
+d2d0e17a84d233ecabee43643543a727;Pennsylvania State University;University of Minnesota;3;1;Pennsylvania State University
+d2f8d7902ec7c59737653f815f890c50;University of Kentucky;Louisiana State University;2;3;Louisiana State University
+d31c38cb9ec0fa35a476987c95acc5d9;University of Mississippi;Auburn University;1;3;Auburn University
+d36e9f8838cf3f9273136882353a4832;Michigan State University;University of Minnesota;0;3;University of Minnesota
+d3bcd0a067281df66149a59fc71dd987;Virginia Tech;Boston College;3;0;Virginia Tech
+d3c5b23a47882849b1b712d2c48a0c2e;University of Missouri;University of Georgia;2;3;University of Georgia
+d3ed59b1e58fd0df7204615561db1cb8;Baylor University;Iowa State University;3;1;Baylor University
+d47f3fdd9a65880a07994d58fcfa43e5;University of Minnesota;University of Iowa;3;1;University of Minnesota
+d48e6441f53d52463d89c9d72746069c;Florida State University;University of Notre Dame;3;0;Florida State University
+d4f8e43605cfbe8c0e91d4b9e95bd2e2;University of Utah;University of Arizona;3;0;University of Utah
+d622dd1025ed5fa69db6bbc89b3e6893;University of Nebraska-Lincoln;University of Wisconsin-Madison;1;3;University of Wisconsin-Madison
+d6eee22814b11bef5caf91c6792d8314;Pennsylvania State University;University of Michigan;0;3;University of Michigan
+d7138084cf6d9d2f55d8302f416e4b06;University of Florida;University of Georgia;0;3;University of Georgia
+d756c80a457ef029da53038d00739148;Virginia Tech;University of Notre Dame;1;3;University of Notre Dame
+d7dbfe3dee83cad63dc90de67f2b9d89;University of Miami;Georgia Institute Of Technology;3;1;University of Miami
+d7e7c98b01d26da39ae3d9851844dabe;University of Oklahoma;West Virginia University;3;0;University of Oklahoma
+d80a9ccd72b832121426d0325339e341;Brigham Young University;Santa Clara University;3;0;Brigham Young University
+d869ed1d26d8fe9ab0cdb1e93dd07240;University of Utah;Oregon State University;3;2;University of Utah
+d87197fe123e8a88c0940e4d736f425a;University of South Carolina;Texas A&M University;1;3;Texas A&M University
+d8805696e648726cbafb7dfb0155e4f2;University of Arkansas;University of Kentucky;2;3;University of Kentucky
+d8dfdb6364413a4768b4b927de6ba5c1;University of California, Berkeley;Washington State University;0;3;Washington State University
+d8f0c870af483c1de3f3e440581f7382;University of San Diego;University of the Pacific;3;0;University of San Diego
+d8f3c6ce8a2680c08f03329bfaae1bf9;Pennsylvania State University;Rutgers University;3;0;Pennsylvania State University
+da2772af4c4f5134fa76afd9281e0263;University of Iowa;Purdue University;1;3;Purdue University
+daf0a03b5f45954cea6cd1b5841e0d39;University of Nebraska-Lincoln;University of Iowa;3;0;University of Nebraska-Lincoln
+db118aa89fa23687fe4d3ad02a12bae0;Boston College;Duke University;3;2;Boston College
+dbcdf3f82536cda6ed164b81ce573b88;Loyola Marymount University;Saint Mary's College;3;0;Loyola Marymount University
+dbdaf16361c0c92b07aa6c1a8fe1cf1a;University of Texas at Austin;Texas Christian University;3;0;University of Texas at Austin
+dc815b814ec72c3d3e156b2ca5d552d2;Georgia Institute Of Technology;Syracuse University;3;0;Georgia Institute Of Technology
+dcb02428607134d63bb6fdf3839e088f;University of Missouri;Texas A&M University;0;3;Texas A&M University
+dcf997fb678b4dc18c59b826b15e429b;University of the Pacific;University of San Diego;0;3;University of San Diego
+dd40953eeaaaa74e90801ac819784945;University of the Pacific;Santa Clara University;1;3;Santa Clara University
+dd4f559544027fa1818d328951177c56;Pepperdine University;Brigham Young University;0;3;Brigham Young University
+dd5d782adeadd46803189ba9c550ffe8;University of Texas at Austin;University of Kansas;3;0;University of Texas at Austin
+dd659e5d3bdd46869d4e1350a1891b22;Texas Christian University;Iowa State University;3;1;Texas Christian University
+de2e8faa7bd837d033aa9cdbfdf63839;University of California, Berkeley;University of Colorado, Boulder;1;3;University of Colorado, Boulder
+deb4100907a47318b26319108cba11de;North Carolina State University;Clemson University;3;0;North Carolina State University
+dee9069d33a30d08b521cd7b3b1cb1bd;University of Illinois Urbana-Champaign;University of Iowa;3;0;University of Illinois Urbana-Champaign
+df3aaea5c0d48ac19fd667b7749050f8;University of Colorado, Boulder;University of Southern California;3;1;University of Colorado, Boulder
+df418067fb5c508ed9875846026d336a;Kansas State University;Baylor University;1;3;Baylor University
+dfb0ff9acf5207412a108367cee77739;Oregon State University;University of California, Berkeley;3;2;Oregon State University
+e19f0e5af2a2f56951894108880d7678;University of Nebraska-Lincoln;Northwestern University;3;0;University of Nebraska-Lincoln
+e1a1297310d38851386bace78b0da046;Texas Tech University;University of Oklahoma;3;1;Texas Tech University
+e2b27b0adf136b019d034fa09fc8323a;University of Nebraska-Lincoln;University of Minnesota;0;3;University of Minnesota
+e2d144f395bcd28239174a9b69ce2a31;Duke University;Clemson University;3;2;Duke University
+e300cc326d64c9cf640e2f15fc3e4fce;University of Washington;University of Utah;3;0;University of Washington
+e314198b9e14ec94e241a3e8071adc6d;University of Virginia;University of Notre Dame;3;0;University of Virginia
+e32a741dc96ab428e22320ce4a184ab0;Oregon State University;Washington State University;0;3;Washington State University
+e34ef43ce2c99cabceb200a48cff928b;University of Michigan;Michigan State University;3;0;University of Michigan
+e3bcd8aef63b82f91a9d771fa92bc323;University of Michigan;Indiana University, Bloomington;1;3;Indiana University, Bloomington
+e3c312ebc758aae519e2b02122c644c1;Boston College;Florida State University;3;1;Boston College
+e3ff71776015b1a7fb3c938e9f362b97;University of Pittsburgh;University of Louisville;3;2;University of Pittsburgh
+e47e85a399de69e246c507c6035ffd52;Rutgers University;University of Nebraska-Lincoln;0;3;University of Nebraska-Lincoln
+e4f757c2d42e99c2788c4545f5fb3a98;University of Tennessee;Mississippi State University;3;2;University of Tennessee
+e50e8af3ad9a2e34ddd5cf3c99c23b4d;Mississippi State University;University of Georgia;3;1;Mississippi State University
+e569a632584e6d9a60c9c9b04fc65378;University of Alabama;Louisiana State University;2;3;Louisiana State University
+e5be401f2f9bc6f5d147357e7fd0e4b7;University of Southern California;University of Oregon;3;1;University of Southern California
+e703ba6e4cbbfe614191f0598cebcaac;Virginia Tech;Duke University;3;1;Virginia Tech
+e75f593c33386729ba8630d22dbfcba9;Pennsylvania State University;Michigan State University;3;1;Pennsylvania State University
+e7caf3219707bb27a00c117445e297a8;University of Louisville;Wake Forest University;3;1;University of Louisville
+e861b7e13309fb9f8e8aa0b5b8745ea5;University of Pittsburgh;Georgia Institute Of Technology;3;2;University of Pittsburgh
+e8d85b42074017367a4a1e266721808a;Loyola Marymount University;University of San Diego;3;2;Loyola Marymount University
+e9310853cd7b532503847735f1b7b896;Michigan State University;Indiana University, Bloomington;2;3;Indiana University, Bloomington
+e9e734066a0393b4b6032124a4648894;University of Oregon;Arizona State University;3;0;University of Oregon
+e9fb85a27bb98a6db81e316e03bd9b8a;University of Arizona;University of California, Los Angeles;1;3;University of California, Los Angeles
+eb56bd1649c16999a6516b16e10c268d;University of the Pacific;Brigham Young University;3;2;University of the Pacific
+ebc6d9ea8477011cd938ad2385f7baaf;Georgia Institute Of Technology;Virginia Tech;3;0;Georgia Institute Of Technology
+ec0a63c2502ea5ee6d43d135e229f790;University of Texas at Austin;Iowa State University;3;0;University of Texas at Austin
+ec4fce7da71d1e335221fc9bff18cee4;Washington State University;University of Utah;3;0;Washington State University
+ec94fdda8acaa6503de858ff358441ac;Iowa State University;Texas Tech University;3;1;Iowa State University
+edbe39726a20ac6928d9e67d6fc9c65d;Saint Mary's College;University of San Diego;0;3;University of San Diego
+eddc9f7b8897856add086984fd0f46ee;University of Miami;Clemson University;3;2;University of Miami
+ee21f8a405b7af35f94a19752d5aa031;Virginia Tech;Wake Forest University;3;0;Virginia Tech
+ee53da45d21d6a5930c245743a998629;University of Illinois Urbana-Champaign;University of Maryland;3;1;University of Illinois Urbana-Champaign
+ef06644a30939eaa2f270b5a059ac02d;University of Colorado, Boulder;University of California, Los Angeles;3;1;University of Colorado, Boulder
+ef19fe92ede6cc701699bf5a3765d3fd;University of North Carolina;Boston College;3;0;University of North Carolina
+ef6765265e1bc9f27524849f93526c00;University of Mississippi;University of Alabama;3;1;University of Mississippi
+ef677ab9901285f0915e82a8ce12ef20;University of Alabama;University of Tennessee;3;1;University of Alabama
+f02461ddddd675c2ccfc400879922a4f;Baylor University;University of Kansas;3;0;Baylor University
+f05ce4541603637e5cd62fec89fb2aaa;Baylor University;West Virginia University;3;0;Baylor University
+f209e5bd25200041fda3c524ee370349;University of California, Berkeley;Arizona State University;2;3;Arizona State University
+f268a06f0b638fed0cfe68da474cb06a;University of Illinois Urbana-Champaign;University of Wisconsin-Madison;0;3;University of Wisconsin-Madison
+f360053f194d751094d52c5743b134c3;Purdue University;University of Wisconsin-Madison;1;3;University of Wisconsin-Madison
+f38ade2754f195c0f72fa14fb9ef0bef;University of Miami;Syracuse University;3;0;University of Miami
+f4d8c0a83304877ab4b29be93715dccb;Indiana University, Bloomington;Pennsylvania State University;0;3;Pennsylvania State University
+f5213e842f152bc6368237a6b849d4f9;University of Iowa;University of Minnesota;0;3;University of Minnesota
+f582f95754ddb22433c3bd16e360e23d;Gonzaga University;University of San Diego;0;3;University of San Diego
+f61eeeacf662590c30ce726f31c7073f;University of Washington;University of Southern California;3;1;University of Washington
+f625fe08b0500230ecbd4b48e054a335;University of Arkansas;University of Alabama;3;0;University of Arkansas
+f64bc1448a9d5e76104c9842190b97a1;University of Iowa;University of Nebraska-Lincoln;0;3;University of Nebraska-Lincoln
+f68318b50dab5dbed1f6dd1c74c3630b;Mississippi State University;University of Missouri;3;1;Mississippi State University
+f6a39e5ff575c0c6c562107d84267f52;University of South Carolina;University of Missouri;3;0;University of South Carolina
+f6d692851579918fde5f2e17117dfbab;Boston College;University of Virginia;3;2;Boston College
+f71677255cddecc493b0d0ee41e90696;University of Arkansas;University of Alabama;3;0;University of Arkansas
+f781c483e1db1f87abeedc7b10131c03;University of Wisconsin-Madison;University of Maryland;3;0;University of Wisconsin-Madison
+f79790adfbbd1edfb139df8feb08332b;Northwestern University;University of Nebraska-Lincoln;2;3;University of Nebraska-Lincoln
+f7a12c72ba3f98a25c5af64e38374360;University of Notre Dame;University of North Carolina;0;3;University of North Carolina
+f7f20df18a3b6c68fccdfa85c998d97e;University of San Francisco;University of the Pacific;0;3;University of the Pacific
+f80ac86f23e1389b349b6bc46046c95c;University of Illinois Urbana-Champaign;University of Minnesota;2;3;University of Minnesota
+f8145b030fd1a814ef996fb64ead03d9;Texas Christian University;Baylor University;3;1;Texas Christian University
+f833e6cbfad3369415daadb60611f9bc;University of Washington;Stanford University;2;3;Stanford University
+f84e0dec3641197e262249cc4b72c49d;University of Illinois Urbana-Champaign;University of Nebraska-Lincoln;0;3;University of Nebraska-Lincoln
+f883b7f0856fb0fdefbbca293a58ffde;Duke University;University of Pittsburgh;0;3;University of Pittsburgh
+f8f706e47b2e0c2e4600639c011431df;Louisiana State University;University of South Carolina;3;0;Louisiana State University
+f9d4a48927bc6f9bac7e9f4e221e7f1b;Loyola Marymount University;University of Portland;3;0;Loyola Marymount University
+f9e8d0470816dfe8a76fbd737d202645;Saint Mary's College;University of San Francisco;3;0;Saint Mary's College
+fa6308b3edb77fdd3e21e5398dd44c40;Florida State University;University of North Carolina;3;1;Florida State University
+fad55ba1bc78f36007e97e756138c557;Saint Mary's College;University of the Pacific;1;3;University of the Pacific
+fb09a9510a8390d3ddeaf5675a7fdbf0;University of Michigan;Ohio State University;1;3;Ohio State University
+fb1502a20b72b40222f5090509de9505;University of California, Berkeley;Stanford University;0;3;Stanford University
+fb8cc6c3e75cdab75e3d79a97eadfd08;Virginia Tech;Syracuse University;1;3;Syracuse University
+fbcd5c030263b48f52129159ac38a9db;Saint Mary's College;Loyola Marymount University;2;3;Loyola Marymount University
+fcc04c7be345a2d971ceacb5c701d0bd;University of Colorado, Boulder;Stanford University;1;3;Stanford University
+fcf92b0553c3451a8c7c347539c0f778;University of Miami;University of Notre Dame;3;2;University of Miami
+fd6400a4df3a1eb2bf9af8780e4eaa2c;Auburn University;Texas A&M University;3;1;Auburn University
+fd6504923ddfea5ae1c3371c32e39a8d;University of Maryland;Northwestern University;0;3;Northwestern University
+fd734a6d07a83f1c90e24328e63313cf;Indiana University, Bloomington;University of Maryland;2;3;University of Maryland
+fe026ff165db569c205afdceb2698846;Wake Forest University;Clemson University;3;1;Wake Forest University
+fe5231cf14d32c56e7f72483342563ff;University of Illinois Urbana-Champaign;Rutgers University;3;0;University of Illinois Urbana-Champaign
+fe553c3e1c08f64df33df586139926fb;University of the Pacific;University of Portland;3;2;University of the Pacific
+feb0aa32b1c92afde8e9ed55ccf665f7;University of Oregon;Stanford University;3;0;University of Oregon
+fedd7f6afa778e788cbee3420da24060;Arizona State University;University of Southern California;1;3;University of Southern California
+fee7f6dbcca48d5c96526d151de37079;University of Wisconsin-Madison;University of Nebraska-Lincoln;3;0;University of Wisconsin-Madison
+ff03b6115668b661870b3ad1739839aa;Texas A&M University;University of Tennessee;3;2;Texas A&M University
+ff419097105dd38e9e78ed0b255fcc88;University of Mississippi;University of Alabama;3;1;University of Mississippi
+ffe25091c77a2345f3435d27fd6b0e47;University of Southern California;University of Colorado, Boulder;3;1;University of Southern California
